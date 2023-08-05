@@ -1,5 +1,5 @@
 # G0DL1K3-LOGGERS
-**Download the "RUNME.zip" file and ignore the README.md, That is the text you are currently reading, not everything as a zip It has a high chance of breaking**
+**Download the "RUNME.zip" file and ignore the README.md, That is the text you are currently reading, not everything as a zip It has a high chance of breaking.**
 DO NOT RUN THE .EXE IF YOU WANT YOUR INFO SAFE (if your grabbing someone elses info, Make them run the .exe file)
 
 Support server: 'https://discord.gg/D2brFzqzA4'
